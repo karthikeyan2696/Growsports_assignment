@@ -153,6 +153,4 @@ Charts + calculated statistics
 18-page analysis PDF
 ```
 
-Use the final CSV, notebook and generated PDF together. Avoid
-substituting older versions of the CSV or notebook, because earlier
-versions contained values that were subsequently corrected.
+Use the final CSV, notebook and generated PDF together.
